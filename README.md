@@ -1,4 +1,4 @@
-This is my personal website. I use it to show off projects I've done.
-You can access it at:
+Band website: Suparosa
 
-j-jacobson.github.io/index.html
+
+see it at http://suparosa.com
